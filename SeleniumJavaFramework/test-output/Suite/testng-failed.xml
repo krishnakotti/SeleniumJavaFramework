@@ -3,7 +3,7 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
   <test name="Test">
     <classes>
-      <class name="demo.TestngPriorityDemo"/>
+      <class name="demo.Sample"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Failed suite [Suite] -->
