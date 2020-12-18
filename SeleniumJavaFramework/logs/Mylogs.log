@@ -1,0 +1,14 @@
+[INFO ] 2020-12-11 18:52:55.185 [main] Log4jDemo - Yhis is info message
+[ERROR] 2020-12-11 18:52:55.193 [main] Log4jDemo - This is error message
+[WARN ] 2020-12-11 18:52:55.193 [main] Log4jDemo - This is warn message
+[FATAL] 2020-12-11 18:52:55.193 [main] Log4jDemo - This is fatal message
+[INFO ] 2020-12-11 18:53:32.562 [main] Log4jDemo - This is info message
+[ERROR] 2020-12-11 18:53:32.566 [main] Log4jDemo - This is error message
+[WARN ] 2020-12-11 18:53:32.566 [main] Log4jDemo - This is warn message
+[FATAL] 2020-12-11 18:53:32.567 [main] Log4jDemo - This is fatal message
+[INFO ] 2020-12-14 13:06:50.546 [main] Log4jDemo - browser Started
+[INFO ] 2020-12-14 13:07:27.190 [main] Log4jDemo - browser Started
+[INFO ] 2020-12-14 13:08:26.379 [main] Log4jDemo - browser Started
+[INFO ] 2020-12-14 13:10:10.051 [main] Log4jDemo - browser Started
+[INFO ] 2020-12-14 13:31:25.494 [main] Log4jDemo - browser Started
+[INFO ] 2020-12-15 11:11:13.566 [main] ExceptionHandlingDemo - Printing
