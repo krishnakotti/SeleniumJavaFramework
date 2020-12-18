@@ -8,9 +8,9 @@ import org.testng.annotations.Test;
 
 import pages.Googlesearchpageupdate;
 
-public class Googlesearchpagefinishtestng {
-
-	static WebDriver driver=null;
+public class GoogleSearchpageTestng {
+	
+static WebDriver driver=null;
 	
 	@BeforeTest
 	public void setuptest()

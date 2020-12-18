@@ -3,7 +3,7 @@
 <suite name="Suite" parallel="false">
   <test name="Test">
     <classes>
-      <class name="browsertest.Googlesearchpagefinishtestng"/>
+      <class name="browsertest.GoogleSearchpageTestng"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
